@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601907662 source:c:\users\berthier\desktop\cours\info\codes\c\chapitre 2\exercice2 tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
